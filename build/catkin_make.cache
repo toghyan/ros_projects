@@ -1,0 +1,2 @@
+robotics
+-DCATKIN_DEVEL_PREFIX=/home/ali/Desktop/projects/ros_projects/devel -DCMAKE_INSTALL_PREFIX=/home/ali/Desktop/projects/ros_projects/install -G Unix Makefiles
